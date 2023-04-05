@@ -1,5 +1,13 @@
 <section class="cart-show">
+<% if enhanced_cart.length == 0 %>
+  <header class="page-header">
+    <h1>My Cart</h1>
+  </header>
+<div class="alert alert-warning" role="alert" 
+<span>Your cart appears empty. Please go back to the <a class="cart-homepage-link" href="<%= root_path %>">Homepage</a> to add products to your cart.</span>
+</div>
 
+<% else %>
   <header class="page-header">
     <h1>My Cart</h1>
   </header>
@@ -48,5 +56,5 @@
       <% end %>
     </div>
   </div>
-
+ <% end %>
 </section>
