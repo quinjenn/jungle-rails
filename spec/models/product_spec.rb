@@ -1,10 +1,10 @@
 require 'rails_helper'
 
   # validation tests/examples here
-    #validates :name, presense: true
-    #validates :price, presense: true
-    #validates :quantity, presense: true
-    #validates :category, presense: true
+    #validates :name, presence: true
+    #validates :price, presence: true
+    #validates :quantity, presence: true
+    #validates :category, presence: true
 RSpec.describe Product, type: :model do
   describe 'Validations' do
     it 'is valid with all fields present' do
