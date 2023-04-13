@@ -5,8 +5,8 @@ A mini e-commerce application built with Rails 6.1 for purposes of teaching Rail
 ## Final Product
 
 !["Screenshot of homepage page"](https://github.com/quinjenn/jungle-rails/blob/master/docs/welcomepage.png)
-!["Screenshot of full mobile page"](https://github.com/quinjenn/jungle-rails/blob/master/docs/products.png)
-!["Screenshot of Tweet text page"](https://github.com/quinjenn/jungle-rails/blob/master/docs/mycart.png)
+!["Screenshot of products page"](https://github.com/quinjenn/jungle-rails/blob/master/docs/products2.png)
+!["Screenshot of my cart page"](https://github.com/quinjenn/jungle-rails/blob/master/docs/mycart.png)
 
 ## Setup
 
